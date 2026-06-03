@@ -43,6 +43,6 @@ Write your yes/no question on each line, then check the host's answer.
 ------------------------------------------
 My guess is: ______The PC in the Cmputer Lab the Professor is using for class.________________________________
 
-RESULT:  [ ] Correct!   [ ] Incorrect
+RESULT:  [ ] Correct!   [X] Incorrect
 
-THE SECRET WAS (host reveals): ____________________________
+THE SECRET WAS (host reveals): The PC in the Computer Lab the Professor isn't using for class
