@@ -3,11 +3,11 @@
 ==========================================
 
 PLAYER (the one asking questions): ____________________
-HOST   (the one with the secret):  ____________________
-DATE:                              ____________________
+HOST   (the one with the secret):  Devonte Allen
+DATE:                              6/3/2026
 
 
-SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [ ] Thing  [ ] Animal
+SECRET CATEGORY (host fills in): [ ] Person  [ ] Place  [X] Thing  [ ] Animal
 
 
 ------------------------------------------
